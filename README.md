@@ -1,4 +1,5 @@
 # TAILWINDCSS-WEBSITE
 
-https://github.com/yarenahlatci/TAILWINDCSS-WEBSITE/assets/127660751/a1bf3500-06a9-48ad-af38-176dbb75b3da
+
+https://github.com/yarenahlatci/TAILWINDCSS-WEBSITE/assets/127660751/43fbdb84-1c46-4f45-b5e5-9b51b2d9c2bd
 
